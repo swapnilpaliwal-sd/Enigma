@@ -1,6 +1,6 @@
 //Project:Enigma
 //Free for Distribution and use
-//READ THE "README.md" FILE 
+//READ THE "README.md" FILE that shows how to test the code
 #include<iostream>
 #include<conio.h>
 #include<string>
